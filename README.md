@@ -1,5 +1,5 @@
 <div id="header" align="center" width="300">
-  <h1> Hello World! </h1>
+  <h1> Hello World! I'm George. Welcome to my Github! </h1>
 </div>
 
 <div id="header" align="left" width="300px">
@@ -29,10 +29,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
