@@ -1,12 +1,12 @@
-<div id="header" align="center" width="300" >
-### Hello World 👋
+### <div id="header" align="center" width="300" >
+Hello World 👋
 </div>
 
-<div id="header" align="center" width="300" >
+<div id="header" align="center" width="300">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="200"/>
 </div>
 
-<div id="header" align="center" width="300" >
+<div id="header" align="center" width="300">
 - 🔭 I’m currently working on ...life.
 - 🌱 I’m currently learning ...three.js
 - 👯 I’m looking to collaborate on ...my gym's website.
@@ -18,9 +18,13 @@
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeeng89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
+<div id="header" align="center" width="300">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div id="header" align="center" width="300">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</div>
 
 <!-- ## Technologies and Tools
 
