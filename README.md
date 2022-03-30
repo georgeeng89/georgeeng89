@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ...life.
+- 🌱 I’m currently learning ...three.js
+- 👯 I’m looking to collaborate on ...my gym's website.
+- 🤔 I’m looking for help with ...finding a job.
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: georgeeng89@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I like turtles.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
