@@ -1,7 +1,8 @@
 <div id="header" align="center" width="300">
   <h1> Hello World! </h1>
 </div>
-<div id="header" align="center" width="300">
+
+<div id="header" align="left" width="300px">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="200"/>
 </div>
 
@@ -9,19 +10,17 @@
   
 <div align="left">
   
-- 🔭 I’m currently working on ...life.
+- 🔭 I’m currently working on ...job applications.
   
 - 🌱 I’m currently learning ...three.js
   
-- 👯 I’m looking to collaborate on ...my gym's website.
+- 👯 I’m looking to collaborate on ...new projects.
   
 - 🤔 I’m looking for help with ...finding a job.
   
 - 💬 Ask me about ...anything!
   
-- 📫 How to reach me: georgeeng89@gmail.com
-  
-- ⚡ Fun fact: ...I like turtles.
+- ⚡ Fun fact: ...I like keyboards.
   
 </div>
   
