@@ -8,18 +8,29 @@
 <div id="header" align="center" width="300">
 <div>
 - 🔭 I’m currently working on ...life.
+  
 - 🌱 I’m currently learning ...three.js
+  
 - 👯 I’m looking to collaborate on ...my gym's website.
+  
 - 🤔 I’m looking for help with ...finding a job.
+  
 - 💬 Ask me about ...anything!
+  
 - 📫 How to reach me: georgeeng89@gmail.com
+  
 - ⚡ Fun fact: ...I like turtles.
 </div>
 </div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeeng89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
+<div id="header" align="center" width="300">
+  
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+  
+</div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
