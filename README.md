@@ -1,10 +1,12 @@
-
-### Hello World!
-
+<div id="header" align="center" width="300">
+  <h1> Hello World! </h1>
+</div>
 <div id="header" align="center" width="300">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="200"/>
 </div>
 
+<div id="header" align="center" width="300">
+<div>
 - 🔭 I’m currently working on ...life.
 - 🌱 I’m currently learning ...three.js
 - 👯 I’m looking to collaborate on ...my gym's website.
@@ -12,8 +14,8 @@
 - 💬 Ask me about ...anything!
 - 📫 How to reach me: georgeeng89@gmail.com
 - ⚡ Fun fact: ...I like turtles.
-
-
+</div>
+</div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeeng89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
