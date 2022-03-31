@@ -1,6 +1,6 @@
 <div align='center'>
 <div align="center" width="300">
-  <h2> Hello World! I'm George. Welcome to my Github!👋</h2>
+  <h2>🌎 Hello World! I'm George. Welcome to my Github!👋</h2>
 </div>
 
 <div align="center" width="300px">
