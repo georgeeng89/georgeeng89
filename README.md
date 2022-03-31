@@ -29,7 +29,13 @@
   <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=ayu-mirage&show_icons=true'></img>
   <br>
   <img src='https://readme-jokes.vercel.app/api?bgColor=%63141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
-<br/>
+<br>
+  
+  ### Projects
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=Finstagram&theme=ayu-mirage&card_width=500)](https://github.com/georgeeng89/Finstagram)
+
+  
 </div>  
 </div>
 
