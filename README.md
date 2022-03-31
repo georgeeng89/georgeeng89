@@ -1,8 +1,8 @@
 <div align='center'>
 <div align="center" width="300">
-  <h2>🌎 Hello World! I'm George. Welcome to my Github!👋</h2>
+  <h2>🌎 Hello World! I'm George. Welcome to my Github!<img src="https://emojis.slackmojis.com/emojis/images/1643517237/32756/charmander_shiny.gif?1643517237" width="30"/></h2>
 </div>
-
+  
 <div align="center" width="300px">
   <img src="https://i.ibb.co/v1DLcsM/coding.gif" width="400"/>
 </div>
