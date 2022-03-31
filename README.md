@@ -8,21 +8,25 @@
 
 <div align="center" width="300">
   
+<br/>
+  
 <div align="left">
   
-- 🔭 I’m currently working on ...job applications.
+🔭 I’m currently working on ...job applications.
   
-- 🌱 I’m currently learning ...three.js
+🌱 I’m currently learning ...three.js
   
-- 👯 I’m looking to collaborate on ...new projects.
+👯 I’m looking to collaborate on ...new projects.
   
-- 🤔 I’m looking for help with ...finding a job.
+🤔 I’m looking for help with ...finding a job.
   
-- 💬 Ask me about ...anything!
+💬 Ask me about ...anything!
   
-- ⚡ Fun fact: ...I like keyboards.
+⚡ Fun fact: ...I like keyboards.
   
 </div>
+  
+<br/>
   
 </div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeeng89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
