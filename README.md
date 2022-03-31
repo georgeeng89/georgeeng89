@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" width="300px">
-  <img src="https://i.ibb.co/4NgYctt/izzy-coding2.gif" width="400"/>
+  <img src="https://i.ibb.co/v1DLcsM/coding.gif" width="400"/>
 </div>
 
 <div align="center" width="300">
