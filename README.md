@@ -1,8 +1,9 @@
-<div align="left" width="300">
+<div align='center'>
+<div align="center" width="300">
   <h2> Hello World! I'm George. Welcome to my Github!👋</h2>
 </div>
 
-<div align="left" width="300px">
+<div align="center" width="300px">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="200"/>
 </div>
 
@@ -10,7 +11,7 @@
   
 <br/>
   
-<div align="left">
+<div align="center">
   
 🔭  I’m currently working on ...job applications.
   <br/>
@@ -25,15 +26,18 @@
 ⚡  Fun fact: ...I like keyboards.
   
 </div>
-  
+  <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true'></img>
+  <br>
+  <img src='https://readme-jokes.vercel.app/api?bgColor=%63141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
 <br/>
-  
+</div>  
 </div>
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgeeng89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 
 <!-- ## Technologies and Tools
@@ -96,4 +100,5 @@
 <br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=georgeeng89)
+
 
