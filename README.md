@@ -1,12 +1,12 @@
-<div id="header" align="center" width="300">
+<div align="left" width="300">
   <h2> Hello World! I'm George. Welcome to my Github!👋</h2>
 </div>
 
-<div id="header" align="left" width="300px">
+<div align="left" width="300px">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="200"/>
 </div>
 
-<div id="header" align="center" width="300">
+<div align="center" width="300">
   
 <div align="left">
   
