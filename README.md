@@ -12,17 +12,17 @@
   
 <div align="left">
   
-🔭 I’m currently working on ...job applications.
-  
-🌱 I’m currently learning ...three.js
-  
-👯 I’m looking to collaborate on ...new projects.
-  
-🤔 I’m looking for help with ...finding a job.
-  
-💬 Ask me about ...anything!
-  
-⚡ Fun fact: ...I like keyboards.
+🔭  I’m currently working on ...job applications.
+  <br/>
+🌱  I’m currently learning ...three.js
+  <br/>
+👯  I’m looking to collaborate on ...new projects.
+  <br/>
+🤔  I’m looking for help with ...finding a job.
+  <br/>
+💬  Ask me about ...anything!
+  <br/>
+⚡  Fun fact: ...I like keyboards.
   
 </div>
   
@@ -34,7 +34,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeeng89&theme=ayu-mirage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=georgeeng89)
 
 
 <!-- ## Technologies and Tools
@@ -92,3 +91,9 @@
 <a href="mailto:georgeeng89@gmail.com" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/>
+<br/>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=georgeeng89)
+
