@@ -33,10 +33,11 @@
   
   ### Projects
 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierikm&repo=robinhood-clone&theme=nord&card_width=500)](https://github.com/pierikm/robinhood-clone)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=LairBnB&theme=ayu-mirage&card_width=500)](https://github.com/georgeeng89/LairBnB)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=Finstagram&theme=nord&card_width=500)](https://github.com/georgeeng89/Finstagram)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Catoura&theme=nord&card_width=500)](https://github.com/vernfongchao/Catoura)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Catoura&theme=ayu-mirage&card_width=500)](https://github.com/vernfongchao/Catoura)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierikm&repo=robinhood-clone&theme=nord&card_width=500)](https://github.com/pierikm/robinhood-clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=LairBnB&theme=ayu-mirage&card_width=500)](https://github.com/georgeeng89/LairBnB)
+
   
 </div>  
 </div>
