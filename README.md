@@ -21,7 +21,7 @@
   <br/>
 💬  Ask me about ...anything!
   <br/>
-⚡  Fun fact: I love custom keyboards :D
+⚡  Fun fact: I am a black belt in Tae Kwon Do 🥋, and I love custom keyboards!
   
 </div>
   <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=ayu-mirage&show_icons=true'></img>
