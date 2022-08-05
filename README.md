@@ -13,17 +13,15 @@
   
 <div align="center">
   
-🔭  I’m currently working on ...job applications.
+🔭  I’m currently seeking job opportunities.
   <br/>
-🌱  I’m currently learning ...three.js
+🌱  I’m currently learning three.js
   <br/>
-👯  I’m looking to collaborate on ...new projects.
-  <br/>
-🤔  I’m looking for help with ...finding a job.
+👯  I’m looking to collaborate on new projects!
   <br/>
 💬  Ask me about ...anything!
   <br/>
-⚡  Fun fact: ...I like keyboards.
+⚡  Fun fact: I love custom keyboards :D
   
 </div>
   <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=ayu-mirage&show_icons=true'></img>
