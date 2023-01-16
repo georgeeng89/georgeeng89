@@ -24,7 +24,7 @@
 ⚡  Fun fact: I am a black belt in Tae Kwon Do 🥋, and I love custom keyboards!
   
 </div>
-  <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=tokyonight&show_icons=true'></img>
+  <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=tokyonight'></img>
   <br>
   <img src='https://readme-jokes.vercel.app/api?bgColor=%63141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
 <br>
