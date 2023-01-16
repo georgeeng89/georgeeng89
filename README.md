@@ -24,7 +24,7 @@
 ⚡  Fun fact: I am a black belt in Tae Kwon Do 🥋, and I love custom keyboards!
   
 </div>
-  <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=gotham&show_icons=true'></img>
+  <img src='https://github-readme-stats.vercel.app/api?username=georgeeng89&count_private=true&theme=tokyonight&show_icons=true'></img>
   <br>
   <img src='https://readme-jokes.vercel.app/api?bgColor=%63141421&borderColor=%23e4e2e2&qColor=%23a8fdf6&aColor=%23f7d746'>
 <br>
@@ -32,10 +32,10 @@
   ### Projects
   
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=Finstagram&theme=tokyonight&)](https://github.com/georgeeng89/Finstagram)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Catoura&theme=gotham&)](https://github.com/vernfongchao/Catoura)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierikm&repo=robinhood-clone&theme=gotham&card_width=500)](https://github.com/pierikm/robinhood-clone)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=LairBnB&theme=gotham&card_width=500)](https://github.com/georgeeng89/LairBnB)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=Finstagram&theme=tokyonight)](https://github.com/georgeeng89/Finstagram)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vernfongchao&repo=Catoura&theme=tokyonight&)](https://github.com/vernfongchao/Catoura)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pierikm&repo=robinhood-clone&theme=tokyonight)](https://github.com/pierikm/robinhood-clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgeeng89&repo=LairBnB&theme=tokyonight)](https://github.com/georgeeng89/LairBnB)
 
   
 </div>  
